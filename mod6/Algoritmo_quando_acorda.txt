@@ -1,0 +1,28 @@
+Algoritmo de quando acordo:
+
+1 - Abro os olhos
+2 - Vejo as horas no relógio
+3 - Se estou atrasado para o trabalho:
+    1 - Me levanto rapidamente
+    2 - Corro para o banheiro
+    3 - Tiro a roupa
+    4 - Tomo banho
+    5 - Vou para o quarto
+    6 - Me enxugo
+    7 - Visto uma roupa
+    8 - Saio para trabalhar
+4 - Senão:
+    1 - Sento na cama
+    2 - Espero um tempo até despertar
+    3 - Faço cinco minutos de alongamento
+    4 - Vou para o banheiro
+    5 - Tiro a roupa
+    6 - Tomo banho
+    7 - Vou para o quarto
+    8 - Me enxugo
+    9 - Visto uma roupa
+    10 - Pego uma xícara
+    11 - Pego a garrafa de café
+    12 - Coloca café na xícara
+    13 - Tomo o café pacientemente
+    14 - Saio para trabalhar
